@@ -671,8 +671,7 @@ body{
   }
 
   .main{
-    /* background: url("../asset/20210413_reponsive.jpg")no-repeat; */
-    background: url("../asset/20200810.jpg")no-repeat;
+    background: url("../asset/20210413_reponsive.jpg")no-repeat;
     position: relative;
     width: 100%;
     display: flex;
