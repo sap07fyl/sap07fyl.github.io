@@ -121,8 +121,7 @@ section{
 }
 
 .animated-text h3{
-  /* color: rgb(185, 156, 107); */
-  color: white;
+  color: rgb(185, 156, 107);
   font-size: 3.5em;
   font-weight: 700;
   line-height: 70px;
