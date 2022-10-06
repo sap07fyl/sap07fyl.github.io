@@ -757,3 +757,15 @@ body{
     margin-left: 0;
   }
 }
+
+@supports ( -webkit-touch-callout : none) {
+  .main {
+  background-attachment:scroll
+  }
+  }
+  
+  @supports not ( -webkit-touch-callout : none) {
+  .main {
+  background-attachment: fixed;
+  }
+  }
